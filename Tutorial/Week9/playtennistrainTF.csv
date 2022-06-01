@@ -1,0 +1,15 @@
+Day,Outlook,Temperature,Humidity,Wind,Play
+D1,Sunny,Hot,High,Weak,FALSE
+D2,Sunny,Hot,High,Strong,FALSE
+D3,Overcast,Hot,High,Weak,TRUE
+D4,Rain,Mild,High,Weak,TRUE
+D5,Rain,Cool,Normal,Weak,TRUE
+D6,Rain,Cool,Normal,Strong,FALSE
+D7,Overcast,Cool,Normal,Strong,TRUE
+D8,Sunny,Mild,High,Weak,FALSE
+D9,Sunny,Cool,Normal,Weak,TRUE
+D10,Rain,Mild,Normal,Weak,TRUE
+D11,Sunny,Mild,Normal,Strong,TRUE
+D12,Overcast,Mild,High,Strong,TRUE
+D13,Overcast,Hot,Normal,Weak,TRUE
+D14,Rain,Mild,High,Strong,FALSE
